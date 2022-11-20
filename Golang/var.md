@@ -1,5 +1,7 @@
 [TOC]
 
+test
+
 ## 变量声明
 
 ```mermaid
